@@ -40,9 +40,9 @@ class Config:
     )
 
     OWNER_ID = int(os.environ.get('OWNER_ID', '7763935232'))
-    BOT_TOKEN = os.environ.get('BOT_TOKEN', '7552355284:AAHDEkyqrD_3HU_K9cyymYNGFY70Sm9Z8oU')
+    BOT_TOKEN = os.environ.get('BOT_TOKEN', '8100875108:AAHNqwigP3bwPR1EXSDhZ674bU7Tw3FMieQ')
     DATABASE_ID = int(os.environ.get('DATABASE_ID', '-1002549094524'))
-    MONGO_URL = os.environ.get('MONGO_URL', 'mongodb+srv://Linkdaget:Malik10_@linkdaget.cqwn8.mongodb.net/?retryWrites=true&w=majority&appName=Linkdaget')
+    MONGO_URL = os.environ.get('MONGO_URL', 'mongodb+srv://Fsub15:Malik10_@fsub15.9mqso.mongodb.net/?retryWrites=true&w=majority&appName=Fsub15')
 
     API_ID = 29057224
     API_HASH = 'da205c3d61724a1358a02f2f09305928'
